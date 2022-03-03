@@ -16,7 +16,7 @@ console.log("Odd Numbers in Number Array are: " + numberArray.filter((item) => {
 
 //2.Convert all the strings to title caps in a string array
 
-let stringArray = ["Akshay", "is", "a", "smart", "developer"]
+let stringArray = ["sandeep", "is", "a", "smart", "developer"]
 
 stringArray = stringArray.map((item) => {
 
