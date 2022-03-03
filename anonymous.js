@@ -23,7 +23,7 @@ console.log("All odd numbers in an array: " + resultArray)
 
 
 //2.Convert all the strings to title caps in a string array
-let stringArray = ["akshay", 'is', 'a', 'smart', 'developer']
+let stringArray = ["sandeep", 'is', 'a', 'smart', 'developer']
 
 let resultStringArray = (function (stringArray) {
 
